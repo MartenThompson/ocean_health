@@ -10,8 +10,11 @@ ipython_config.py
 venv/
 .venv/
 
+# Ruff
+.ruff_cache/
+
 # MacOS
 .DS_Store
 
-# VSCode
+# VS Code
 .vscode/
