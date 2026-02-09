@@ -3,10 +3,18 @@ data/
 
 # Python
 _pycache__/
+__pycache__/
 .ipynb_checkpoints
 profile_default/
 ipython_config.py
 venv/
+.venv/
+
+# Ruff
+.ruff_cache/
 
 # MacOS
 .DS_Store
+
+# VS Code
+.vscode/
